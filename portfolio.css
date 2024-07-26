@@ -1,0 +1,228 @@
+#df{
+    display:flex;
+}
+p.n
+{
+    padding-left: 55%;
+}
+#np:hover
+{
+    color:orangered;
+    font-family: sans-serif;
+    text-decoration: underline;
+    transition: 1s;
+}
+#np,#pad
+{
+    padding-left: 30px;
+}
+a#np
+{
+    color: rgb(240, 234, 234);
+    padding-top:20px;
+    font-size:x-large;
+}
+#div1
+{
+   background-color:white;
+   height: 450px;
+   /* background-image:url("https://th.bing.com/th/id/R.6cef7a487e7b9e882605e345b44afd59?rik=6dSJKkVwqjKNkQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-2o90pia4k3w%2fTqncz2uyO_I%2fAAAAAAAAADc%2fnsjvFQc8_Iw%2fs1600%2fbackground_image.jpg&ehk=WpsOcYmkQhAc8G2KcO4alKrFtngCp%2bkngzOjZQ7REPY%3d&risl=&pid=ImgRaw&r=0"); */
+}
+#but1
+{
+    height: 50px;
+    width: 150px;
+    background-color: black;
+    color: aliceblue;
+}
+#but1:hover{
+    background-color:rgb(227, 129, 93);
+}
+#but1:active {
+    background-color:grey;
+    box-shadow: 0 5px #666;
+    transform:translateZ(4px);
+}
+#about
+{
+    padding-top: 10%;
+    display: flex;
+    /* background-color: rgb(178, 214, 237);*/
+    height: 400px;
+    background-color: rgb(21, 19, 19);
+}
+#home
+{
+
+}
+#im
+{
+    background-size:contain;
+    background-repeat: no-repeat;
+    background-image:url("raghavphoto.jpeg");
+    border-radius: 8px;
+    /* background-image:url("https://th.bing.com/th/id/OIP.hSFzrKnMQdDaoLiD3iWEmwHaEL?rs=1&pid=ImgDetMain"); */
+    /* background-image:url("https://c.pxhere.com/photos/93/c7/businessman_man_portrait_male_costume_business_office_office_style-815849.jpg!d"); */
+    height: 300px;
+    width: 300px;
+}
+.nav
+{
+    background-color: rgb(3, 3, 3);
+} 
+#p1
+{
+    padding-left: 10%;
+}
+nav{
+    border-bottom: 2px solid black; 
+}
+#im2
+{
+    
+    height:1500px;
+    width: 3000px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/000/191/927/original/vector-office-worker-illustration.jpg");
+
+    
+}
+#t
+{
+    color: antiquewhite;
+    font-size: larger;
+    text-align:left;
+    padding-right: 5%;
+}
+
+h1#t
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(11, 7, 0);
+    font-size:xx-large;
+    text-align:center;
+    padding-right: 5%;
+}
+#r
+{
+    color: aliceblue;
+    font-size: xx-large;
+    text-align: center;
+}
+p#r
+{
+    color: aliceblue;
+    font-size: large;
+    text-align: center;
+}
+#skill
+{
+    padding-top: 5%;
+    /* background-color: rgb(178, 214, 237);*/
+    height: 400px;
+    background-color: rgb(251, 251, 251);
+}
+#contact
+{
+    padding-top: 5%;
+    /* background-color: rgb(178, 214, 237);*/
+    height: 300px;
+    background-color: rgb(14, 13, 13);
+}
+#linlogo
+{
+    border-radius: 8px;
+    height: 30px;
+    width :30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjk4Mi1kNi0xMF8xLnBuZw.png?s=hk1QdWWMiAUZAO8m-GOqCRK33SubScj95J-SZhvlpjs");
+
+}
+#gitlogo
+{
+    height: 30px;
+    width :30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png");
+    border-radius: 8px;
+
+}
+#inlogo
+{
+    height: 30px;
+    width :30px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://www.elganchocf.com/wp-content/uploads/2019/03/white-instagram-logo-transparent-background-7740.png");
+    
+}
+#clogo
+{
+    height: 100px;
+    width :100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://th.bing.com/th/id/OIP.jZBpEb6V3DAm4ytfb7EzdAAAAA?rs=1&pid=ImgDetMain");
+    
+}
+#clogo:hover,#javalogo:hover,#rlogo:hover,#pylogo:hover
+{
+    height: 200px;
+    width :200px;
+    transition: 1s;
+}
+#javalogo
+{
+    height: 100px;
+    width :100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://th.bing.com/th/id/OIP.3pbn96F_IFdhSmJ1MaRe9AHaKN?rs=1&pid=ImgDetMain");
+    
+}
+#rlogo
+{
+    height: 100px;
+    width :100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://th.bing.com/th/id/R.f81a6f373c244b1f70f4b7402b5ab372?rik=rbXh4ieLuKt%2bmA&riu=http%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f09%2fReact_logo_logotype_emblem.png&ehk=QhGOkKcUKCU7FBQgHOajOiJqJBACUTD2Ni6LsfqzCEA%3d&risl=&pid=ImgRaw&r=0");
+    
+}
+#pylogo
+{
+    height: 100px;
+    width :100px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-image: url("https://www.pngitem.com/pimgs/m/31-312064_programming-icon-png-python-logo-512-transparent-png.png");
+    
+}
+#inlogo:hover{
+    background-image: url("https://riverviewenterprise.solutions/wp-content/uploads/2022/05/Instagram-Logo.jpg");
+    border-radius: 14px;
+    transform: translateY(4px);
+    transition: .5s;
+    height: 40px;
+    width :40px;
+}
+#gitlogo:hover{
+    background-image: url("https://th.bing.com/th/id/OIP.Y0-Z3MWMKa4-khZnBtbHVgHaHm?rs=1&pid=ImgDetMain");
+    border-radius: 7px;
+    transform: translateY(4px);
+    transition: .5s;
+    height: 40px;
+    width :40px;
+}
+#linlogo:hover{
+    background-image: url("https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png");
+    border-radius: 7px;
+    transform: translateY(4px);
+    transition: .5s;
+    height: 40px;
+    width :40px;
+}
